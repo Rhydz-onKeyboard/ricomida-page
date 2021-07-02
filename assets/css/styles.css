@@ -72,12 +72,18 @@ p{
 .w-24{
     width: 24% !important;
 }
-  .carousel-indicators li {
+.carousel-indicators li {
     width: 15px;
     height: 6px;
     border-radius: 50%;
     background-color: #343a40;
-  }
-
+}
+.step-section{
+    cursor: pointer;
+}
+.btn-news{
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
 
   
